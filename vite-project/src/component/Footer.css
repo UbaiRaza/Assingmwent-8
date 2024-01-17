@@ -1,0 +1,12 @@
+a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
